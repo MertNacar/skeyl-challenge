@@ -1,3 +1,6 @@
+# Skeyl Challenge
+Searching in json object that includes arrays, objects and primitive types
+
 ## Available Scripts
 
 In the project directory, you can run:
